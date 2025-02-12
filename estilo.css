@@ -1,0 +1,95 @@
+header{
+background-image: url(img/Anime-04-02-2025.png);
+height: 400px;
+background-size:550px;
+background-position:center;
+background-repeat: no-repeat;
+}
+
+body{
+    background-color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+footer {
+    color: white;
+    background-color: #585858;
+    text-align: center;
+    padding: 20px;
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 1px;
+}
+.div1{
+    color: white;
+    text-align: center;
+    margin-top: 170px;
+}
+
+
+.div1 h1 {
+    margin-top: 40px;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: inline-block;
+    padding: 13px;
+    border-bottom: 2px solid white;
+    border-radius: 4px;
+}
+nav{
+    background-color: black;
+    justify-content: space-around;
+}
+a:link {
+    color: #f5f3f3;
+    text-decoration: none;
+    background-color: black;
+  }
+a:visited {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    background-color: black;
+  }
+a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background-color: red;
+    
+  }
+  a:active {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background-color: red;
+  }
+  table{
+        width: 100%;
+        border: 0px ;
+        
+      }
+.barra p{
+    background-color: darkgray;
+    color: darkgray;
+}
+main{
+    width: 80%;
+    margin: auto;
+}
+article{
+    background-color: white;
+    text-align: justify;
+    padding: 18px;
+    margin: 20px;
+}
+article h2{
+    background-color: rgb(160, 155, 155);
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 7px;
+    border-bottom: 2px solid rgb(75, 74, 74);
+    margin-top: 5px;
+}
+img {
+    float: left;
+    height: auto;
+    width: 30%;
+    padding: 10px;
+}
